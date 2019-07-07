@@ -2,7 +2,7 @@
 // @name         OPR Agreement Hint
 // @version      0.1
 // @namespace    https://github.com/mariomc/opr-tools-agreement-hint
-// @description  Show EXIF info of photos in OPR
+// @description  Tentative OPR reject detection
 // @match        *://opr.ingress.com/recon
 // ==/UserScript==
 
